@@ -1,0 +1,16 @@
+{
+  "name": "TsExample",
+  "version": "0.0.0",
+  "authors": [
+    "Evan Larsen <evan.larsen@gmail.com>"
+  ],
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
